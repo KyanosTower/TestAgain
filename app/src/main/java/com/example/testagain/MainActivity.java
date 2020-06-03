@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    //This is an added comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
