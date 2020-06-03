@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
 /*
 
-Hello you lovely people!
+Hello you lovely people! Try this great app
 
  */
